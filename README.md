@@ -3,7 +3,7 @@ Bacharelando em Engenharia de Computação pela PUC Minas e Técnico em Informá
 
 
 ## 🌐 Social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cristianfsena/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristianfsena/) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianSena17&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
