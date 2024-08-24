@@ -1,5 +1,7 @@
 # About Me:
-Bacharelando em Engenharia de Computação pela PUC Minas e Técnico em Informática, com ênfase em desenvolvimento de sistemas, pelo SENAI. Entusiasta de desenvolvimento back-end, mobile, automação (RPA), IoT e sistemas embarcados.
+Bacharelando em Engenharia de Computação pela PUC Minas e Técnico em Informática, com ênfase em desenvolvimento de sistemas, pelo SENAI. Atualmente, trabalhando na equipe de Software Factory da Stellantis como analista de Sistemas/Produtos no time de sistemas embarcados para o Instrument Panel Cluster (IPC) e Body Control Module (BCM).
+
+Possuo sólidas habilidades em desenvolvimento e validação de software utilizando C/C++, C# e Python, com foco em práticas de versionamento e pipelines CI/CD, especialmente com GitHub. Além disso, tenho experiência significativa na participação em equipes sob a metodologia Scrum, visando a otimização de processos.
 
 
 ## 🌐 Social:
